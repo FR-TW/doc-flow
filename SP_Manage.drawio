@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T04:48:08.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="XVaTS0wMwCxrpyFqoRa8" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T09:10:22.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5vNmdERFIBNXsv2oja20" version="14.4.6" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="2944" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;strokeColor=#FFFFFF;arcSize=3;fillColor=#FFD966;" parent="1" vertex="1">
-          <mxGeometry x="50" y="40" width="1660" height="2260" as="geometry" />
+          <mxGeometry x="50" y="40" width="1660" height="1740" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-1" value="戰略管理-2021Q1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=42;fontStyle=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="440" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="1130" y="190" width="490" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;imageHeight=24;arcSize=6;" parent="WR_IjdlO5KlaxCx397BE-6" vertex="1">
-          <mxGeometry width="490" height="2000" as="geometry" />
+          <mxGeometry width="490" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-32" value="&lt;font style=&quot;font-size: 38px&quot;&gt;戰略執行&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="WR_IjdlO5KlaxCx397BE-6" vertex="1">
           <mxGeometry x="105" y="20" width="280" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="640" y="190" width="490" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFB001;strokeColor=#FFFFFF;arcSize=6;" parent="WR_IjdlO5KlaxCx397BE-5" vertex="1">
-          <mxGeometry width="490" height="2000" as="geometry" />
+          <mxGeometry width="490" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-25" value="&lt;font style=&quot;font-size: 38px&quot; face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; color=&quot;#1a1a1a&quot;&gt;戰略解碼&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontStyle=1;fontColor=#FFD966;labelBorderColor=none;" parent="WR_IjdlO5KlaxCx397BE-5" vertex="1">
           <mxGeometry x="94" y="13" width="280" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry y="110" width="480" height="2000" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-17" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFC001;strokeColor=#FFFFFF;arcSize=6;" parent="WR_IjdlO5KlaxCx397BE-4" vertex="1">
-          <mxGeometry x="-10" width="490" height="2000" as="geometry" />
+          <mxGeometry x="-10" width="490" height="1490" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-18" value="戰略制定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=38;fontStyle=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontColor=#666666;" parent="WR_IjdlO5KlaxCx397BE-4" vertex="1">
           <mxGeometry x="90" y="13" width="280" height="60" as="geometry" />
@@ -83,22 +83,22 @@
           <mxGeometry x="60" y="162.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-11" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;產品&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry x="170" y="476" width="90.75" height="50" as="geometry" />
+          <mxGeometry x="170" y="703" width="90.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-14" value="&lt;font color=&quot;#666666&quot; face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;輸出&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
           <mxGeometry x="300" y="162.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-16" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;銷售&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry x="170" y="533" width="90.75" height="50" as="geometry" />
+          <mxGeometry x="170" y="530" width="90.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-17" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;售前&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry x="170" y="586" width="90" height="52" as="geometry" />
+          <mxGeometry x="170" y="587" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-18" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;項目&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry x="170" y="639" width="90" height="52" as="geometry" />
+          <mxGeometry x="170" y="645" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-19" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;售後&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry x="170" y="692" width="90" height="52" as="geometry" />
+          <mxGeometry x="170" y="760" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-25" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
           <mxGeometry x="170" y="400" width="91.5" height="60" as="geometry" />
@@ -127,24 +127,6 @@
         <mxCell id="60da8b9f42644d3a-19" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;差距分析&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" parent="WR_IjdlO5KlaxCx397BE-29" vertex="1">
           <mxGeometry y="2" width="173" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-30" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry y="940" width="173" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;align=center;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-30">
-          <mxGeometry x="13" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-32" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;市場洞察&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-30">
-          <mxGeometry y="2" width="173" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-33" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
-          <mxGeometry y="1560" width="173" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;align=center;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-33">
-          <mxGeometry x="13" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WR_IjdlO5KlaxCx397BE-35" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;戰略意圖&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-33">
-          <mxGeometry y="2" width="173" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="WR_IjdlO5KlaxCx397BE-38" value="" style="endArrow=none;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WR_IjdlO5KlaxCx397BE-4" source="WR_IjdlO5KlaxCx397BE-15" target="WR_IjdlO5KlaxCx397BE-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="520" as="sourcePoint" />
@@ -153,6 +135,69 @@
               <mxPoint x="88" y="429" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-30" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry y="850" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;align=center;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-30">
+          <mxGeometry x="13" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-32" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;市場洞察&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-30">
+          <mxGeometry y="2" width="173" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-39" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Brian&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="530" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-40" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Sigurd&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="588" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-41" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Michael&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="646" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-42" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Eric&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="704" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-43" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Eric&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="762" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-44" value="" style="endArrow=none;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="951" as="sourcePoint" />
+            <mxPoint x="86.49999999999955" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86.5" y="951" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-45" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="170" y="920" width="91.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;align=center;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-45">
+          <mxGeometry width="91.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-47" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;維度&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-45">
+          <mxGeometry x="1.5" y="4" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-92" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;市場&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="169.25" y="472" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-93" value="&lt;font face=&quot;Noto Sans TC&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Lily&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="309.63" y="472" width="90.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-94" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;看行業&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="150" y="1010" width="113.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-96" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;看自己&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="150" y="1070" width="113.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-33" value="" style="group" vertex="1" connectable="0" parent="WR_IjdlO5KlaxCx397BE-4">
+          <mxGeometry x="-3.75" y="1170" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans%2BTC;fontSize=38;fontColor=#666666;align=center;fillColor=#FFFFFF;strokeColor=#FFD966;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-33">
+          <mxGeometry x="13" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_IjdlO5KlaxCx397BE-35" value="&lt;span&gt;&lt;font face=&quot;Noto Sans TC&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans+TC&quot; style=&quot;font-size: 32px&quot;&gt;戰略意圖&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#666666;" vertex="1" parent="WR_IjdlO5KlaxCx397BE-33">
+          <mxGeometry y="2" width="173" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
